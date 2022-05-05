@@ -16,3 +16,8 @@
 10. Noticed all three content h2 css properties were repeating themselves, so I got it into one css selector with the necessary properties
 11. Noticed the "search engine optimization" link in the navbar wasn't redirecting to it's section on the page and fixed it.
 12. Was able to condense the search engine optimization, online reputation management, and social media marketing css from three individual selectors into one.
+
+### Link and Screenshot to Deployed Application
+Visit https://jschaefmn.github.io/horiseon-refactor/
+
+<img src="./assets/images/horiseon-deployed-site.png">
